@@ -27,6 +27,10 @@ Fe3O4(c) -163.23944626652974 3.0 4.0 0.0
 1.0
 1.0
 
+Calculate equilibrium composition of thermodynamic system 
+composed by 1 mole of FeOC at pressure 0.1 MPa, temperature 1000K
+condensed mixture is formed by Fe oxides:
+FeO(c), Fe2O3(c), Fe3O4(c)
 
 (1%FeOC)
 #
