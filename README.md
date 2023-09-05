@@ -4,7 +4,7 @@ To run the examples JuMP and Ipopt packages should be installed.
 
 Substances and the data are arranged as follows. At the beginning there are condensed substances that form one-component phases, then gaseous substances, followed by substances that are part of condensed solutions.
 
-Description of the arguments:
+Description of the arguments:  
 m - number of elements;
 k - number of substances; 
 np - number of solutions (mixtures); 
